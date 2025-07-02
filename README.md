@@ -5,9 +5,15 @@ Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem
 
 ---
 
-## 🧾 Fitur Utama
+## 🧾 Gambaran Proses Bisnis untuk Perancangan Sistem
 
-- 
+- Pengguna login ke dalam sistem dengan menginput username dan password.
+- Sistem mengidentifikasi username dan password kemudian menampilkan beranda utama.
+- Pengguna dapat menggunakan sistem sesuai dengan kebutuhan.
+    - Anggota dapat mengakses menu pengajuan pinjaman, informasi simpanan, dan informasi pinjaman.
+    - Petugas Koperasi dapat mengakses menu transaksi simpanan, putusan pinjaman, dan transaksi pinjaman.
+- Setiap kali pengguna melakukan transaksi simpanan maupun pinjaman, maka sistem akan mencetak bukti transaksi tersebut.
+
 ---
 
 ## 📌 Teknologi
@@ -20,21 +26,7 @@ Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem
 ## 🗂️ Dokumentasi Lengkap
 
 - 📄 [Struktur & Relasi Database (DATABASE.md)](./DATABASE.md)
-- 🖼️ [Entity Relationship Diagram (ERD)](./docs/erd.png)
-
----
-
-## 🚀 Cara Menggunakan
-
-1. Import file `database_schema.sql` ke phpMyAdmin atau MySQL Workbench.
-2. Sesuaikan skema dengan kebutuhan sistem atau aplikasi frontend.
-3. Referensi tabel dan relasi bisa dilihat di file `DATABASE.md`.
-
----
-
-## 📝 Kontribusi
-
-Pull request dan masukan sangat diterima. Silakan fork dan modifikasi jika ingin mengembangkan lebih lanjut.
+- 🖼️ [Rancangan Diagram](./docs/erd.png)
 
 ---
 
