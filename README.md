@@ -31,7 +31,7 @@ Project ini merupakan hasil analisis terhadap kebutuhan data serta rancangan sis
 
 Klik disini untuk melihat Rancangan Diagram dan Desain Interface dari Sistem Informasi Koperasi.
 - 📄 [Rancangan Diagram](./RancanganDiagram/)
-- 🖼️ [Desain Interface]([/](https://www.figma.com/design/bSbC1F9tjMQQZ1YLvRehRG/DESAIN-UI-KOPERASI-SEJAHTERA-BERSAMA?node-id=2-2&t=XCOiqDLenjmJMgxO-1))
+- 🖼️ [Desain Interface](https://www.figma.com/design/bSbC1F9tjMQQZ1YLvRehRG/DESAIN-UI-KOPERASI-SEJAHTERA-BERSAMA?node-id=2-2&t=XCOiqDLenjmJMgxO-1)
 
 ---
 
