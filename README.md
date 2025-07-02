@@ -13,7 +13,7 @@ Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem
 ## 📌 Teknologi
 
 - **StarUML** untuk perancangan diagram sistem
-- **Figma** untuk desain __user_interface_
+- **Figma** untuk desain _user_interface_
 
 ---
 
