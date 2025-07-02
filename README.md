@@ -1,7 +1,11 @@
-# Analisis dan Desain Sistem : Studi Kasus pada sebuah koperasi
+# Sistem Informasi Koperasi
 
 Repository ini berisi dokumen final project kelompok untuk mata kuliah Analisis dan Desain Sistem.
-Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem informasi untuk koperasi menggunakan pendekatan berorientasi objek.
+Final Project ini dikerjakan secara berkelompok dengan anggota :
+1. Apriani Kartini - Ketua
+2. Widi Syafira
+
+Project ini merupakan hasil analisis terhadap kebutuhan data serta rancangan sistem informasi koperasi simpan pinjam dengan menggunakan pendekatan berorientasi objek. Studi Kasus dilakukan pada Koperasi Simpan Pinjam Sejahtera Bersama.
 
 ---
 
@@ -16,7 +20,7 @@ Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem
 
 ---
 
-## 📌 Teknologi
+## 📌 Tools
 
 - **StarUML** untuk perancangan diagram sistem
 - **Figma** untuk desain _user_interface_
@@ -25,8 +29,9 @@ Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem
 
 ## 🗂️ Dokumentasi Lengkap
 
-- 📄 [Lihat Rancangan Diagram](./RancanganDiagram/)
-- 🖼️ [Lihat Desain Interface](Rancangan Diagram/)
+Klik disini untuk melihat Rancangan Diagram dan Desain Interface dari Sistem Informasi Koperasi.
+- 📄 [Rancangan Diagram](./RancanganDiagram/)
+- 🖼️ [Desain Interface]([/](https://www.figma.com/design/bSbC1F9tjMQQZ1YLvRehRG/DESAIN-UI-KOPERASI-SEJAHTERA-BERSAMA?node-id=2-2&t=XCOiqDLenjmJMgxO-1))
 
 ---
 
