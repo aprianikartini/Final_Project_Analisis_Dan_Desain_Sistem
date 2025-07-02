@@ -25,7 +25,7 @@ Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem
 
 ## 🗂️ Dokumentasi Lengkap
 
-- 📄 [Lihat Rancangan Diagram](./Rancangan20%Diagram/)
+- 📄 [Lihat Rancangan Diagram](./RancanganDiagram/)
 - 🖼️ [Lihat Desain Interface](Rancangan Diagram/)
 
 ---
