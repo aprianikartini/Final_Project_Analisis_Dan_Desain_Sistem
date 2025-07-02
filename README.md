@@ -25,8 +25,8 @@ Pada repository ini kami manganalisis kebutuhan data dan merancang sebuah sistem
 
 ## 🗂️ Dokumentasi Lengkap
 
-- 📄 [Struktur & Relasi Database (DATABASE.md)](./DATABASE.md)
-- 🖼️ [Rancangan Diagram](./docs/erd.png)
+- 📄 [Lihat Rancangan Diagram](./Rancangan Diagram/)
+- 🖼️ [Lihat Desain Interface](./Rancangan Diagram/)
 
 ---
 
